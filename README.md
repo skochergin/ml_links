@@ -7,4 +7,4 @@
 * https://habrahabr.ru/company/parallels/blog/324574/
 
 ## NLP
-[Convolutional Neural Networks over Tree Structures for Programming Language Processing](https://arxiv.org/pdf/1409.5718.pdf)
+* [Convolutional Neural Networks over Tree Structures for Programming Language Processing](https://arxiv.org/pdf/1409.5718.pdf)
