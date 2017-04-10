@@ -11,3 +11,4 @@
 
 ## Reinforcement Learning
 * [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
+* [Deep Reinforcement Learning to play Space Invaders](http://nihit.github.io/resources/spaceinvaders.pdf)
