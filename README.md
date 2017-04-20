@@ -18,3 +18,5 @@
 ## Recurrent Neural Networks
 * [A Fast Unified Model for Parsing and Sentence Understanding](https://arxiv.org/pdf/1603.06021.pdf)
 * [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
+* [TRAINING RECURRENT NEURAL NETWORKS](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+* [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/phd.pdf)
